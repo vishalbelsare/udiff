@@ -1,7 +1,7 @@
 Prerequisites
 --------------
 
-There some prerequisites packages you should install before udiff.
+There are some prerequisite packages you should install before udiff.
 
 :Python3: udiff requires Python 3.5 or higher.
 :`uarray <https://github.com/Quansight-Labs/uarray>`_: uarray is a backend system for Python that allows you to separately define an API,
